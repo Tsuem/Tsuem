@@ -4,7 +4,6 @@
 
 - 👨🏽‍💻 I’m a student!
 - 🌱 I’m currently learning Python, NodeJS, Go, AWS and SQL.
-- 👯 I’m looking to collaborate on any project.
 - 😄 Pronouns: She/Her
 
 
