@@ -1,7 +1,4 @@
 ### Hi, I'm Tsue here 👋
-
-![me (2)](https://user-images.githubusercontent.com/99552910/184441898-2b797e05-1c6b-4f63-9747-7ce38e67b1b5.png)
-
 - 👨🏽‍💻 I’m a student!
 - 🌱 I’m currently learning Python, NodeJS, Go, AWS and SQL.
 - 😄 Pronouns: She/Her
