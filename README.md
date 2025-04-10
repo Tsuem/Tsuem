@@ -1,7 +1,6 @@
 ### Hi, I'm Tsue here 👋
 - 👨🏽‍💻 I’m a student!
 - 🌱 I’m currently learning Python, NodeJS, Go, AWS and SQL.
-- 😄 Pronouns: She/Her
 
 
 ### Tech & Tools Preference
